@@ -32,7 +32,7 @@ Olympus is my personal engineering environment used to develop practical skills 
 
 ## Established Infrastructure
 
-## # Hyperion
+## Hyperion
 Primary Workstation
 
 **Role**
