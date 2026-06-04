@@ -2,7 +2,7 @@
 
 Personal Infrastrctre, Security, and Software Engineering Laboratory
 
-##Overview
+## Overview
 
 Olympus is my personal engineering environment used to develop practical skills in:
 
@@ -18,7 +18,7 @@ Olympus is my personal engineering environment used to develop practical skills 
 
 ---
 
-##Objectives
+## Objectives
 - Improve Linux administration skills
 - Learn modern networking concepts
 - Develop backend applications
@@ -30,9 +30,9 @@ Olympus is my personal engineering environment used to develop practical skills 
 
 ---
 
-##Established Infrastructure
+## Established Infrastructure
 
-### Hyperion
+## # Hyperion
 Primary Workstation
 
 **Role**
@@ -42,7 +42,7 @@ Primary Workstation
 
 ---
 
-### Apollo
+## # Apollo
 Linux Development Machine
 
 **Role**
@@ -54,7 +54,7 @@ Linux Development Machine
 
 ---
 
-###Atlas
+## #Atlas
 Dedicated Server Platform
 
 **Role**
@@ -65,15 +65,15 @@ Dedicated Server Platform
 
 ---
 
-##Current Technologies
+## Current Technologies
 
-###Operating Systems
+## #Operating Systems
 
 - Windows 11
 - Fdeora Linux
 - Ubuntu Server
 
-###Languages
+## #Languages
 
 - Python
 - Java
@@ -81,7 +81,7 @@ Dedicated Server Platform
 - SQL
 - Bash
 
-###Infrastructure
+## #Infrastructure
 
 - Docker
 - Git
@@ -89,7 +89,7 @@ Dedicated Server Platform
 - Nginx
 - PostgreSQL
 
-### Networking
+## # Networking
 
 - DNS
 - DHCP
@@ -97,7 +97,7 @@ Dedicated Server Platform
 - Reverse Proxies
 - Network Monitoring
 
-### Security
+## # Security
 
 - Secure Software Development
 - OWASP Top 10
@@ -106,7 +106,7 @@ Dedicated Server Platform
 
 ---
 
-## Learning Philosophy
+##  Learning Philosophy
 
 Olympus is intended to document practical learning through building systems rather than relying solely on theoretical study.
 
@@ -120,7 +120,7 @@ Each component is documented with:
 
 ---
 
-## Repository Ecosystem
+##  Repository Ecosystem
 
 Future repositories:
 
@@ -133,7 +133,7 @@ Future repositories:
 
 ---
 
-## Author
+##  Author
 
 Harmon Vears
 
