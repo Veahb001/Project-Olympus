@@ -1,6 +1,6 @@
 # Olympus Homelab
 
-Personal Infrastrctre, Security, and Software Engineering Laboratory
+Personal Infrastructure, Security, and Software Engineering Laboratory
 
 ## Overview
 
