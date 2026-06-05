@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Replace with your target device MAC address
+wakeonlan XX:XX:XX:XX:XX:XX
