@@ -15,7 +15,7 @@
 
 Remote power management is now functional.
 
-## 2026-06-11
+## 11/6/2026
 
 ### Added
 
