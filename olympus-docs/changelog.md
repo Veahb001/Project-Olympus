@@ -54,3 +54,15 @@ Platform: Docker
 ##### Outcome
 
 Project Olympus now includes a dedicated web interface for remotely managing infrastructure power states without requiring direct SSH access or manual script execution.
+
+## 12/6/2026
+
+### Added
+
+- Deployed Uptime Kuma on Atlas using Docker
+- Added monitoring foundation for Project Olympus
+- Planned monitors for Atlas, Hyperion, Homepage, UpSnap, and internet connectivity
+
+### Fixed
+
+- Began troubleshooting Homepage and UpSnap service availability
