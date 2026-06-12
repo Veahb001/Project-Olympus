@@ -1,32 +1,31 @@
 # Olympus Homelab
 
-Personal Infrastructure, Security, and Software Engineering Laboratory
+A personal homelab and infrastructure project focused on Linux administration, networking, self-hosting, automation, cybersecurity, and systems engineering.
 
 ## Overview
 
+Project Olympus is an ongoing hands-on learning project designed to develop practical experience with modern infrastructure and systems administration.
+
+The project consists of a small homelab environment built around three primary systems:
+
 Olympus is my personal engineering environment used to develop practical skills in:
 
+| Device | Role |
+| --- | --- |
+| Atlas | Ubuntu infrastructure server |
+| Apollo | Linux administration and development workstation |
+| Hyperion | Windows compute and AI workstation |
+
+Olympus serves as a platform for experimenting with:
+
 - Linux Administration
-- Networking
-- Backend Development
-- Cybersecurity
-- Cloud Technologies
-- Automation
-- Infrastructure Management
-
-  The goal of Olympus is to provide a real-world environemtn for experimentation, learning, and project development beyond coursework and tutorials.
-
----
-
-## Objectives
-- Improve Linux administration skills
-- Learn modern networking concepts
-- Develop backend applications
-- Explore cybersecurity practices
-- Gain hands-on experience with cloud technologies
-- Build automation tools and workflows
-- Maintain professional documentation
-- Create a self managed home network
+- Networking and Remote Access
+- Docker and Containerization
+- Infrastructure Monitoring
+- Automation and Scripting
+- Self-Hosted Services
+- Cybersecurity Fundamentals
+- Systems Engineering Practices
 
 ---
 
@@ -67,42 +66,30 @@ Dedicated Server Platform
 
 ## Current Technologies
 
-## Operating Systems
+## Current Features
+Infrastructure
+Ubuntu Server deployment
+SSH administration
+Tailscale mesh networking
+Headless server operation
 
-- Windows 11
-- Fdeora Linux
-- Ubuntu Server
+## Power Management
 
-## Languages
+Wake-on-LAN configuration
+Remote Hyperion wake capability
+UpSnap management dashboard
 
-- Python
-- Java
-- C++
-- SQL
-- Bash
+## Monitoring
 
-## Infrastructure
+Uptime Kuma monitoring platform
+Service health monitoring
+Infrastructure visibility
 
-- Docker
-- Git
-- GitHub
-- Nginx
-- PostgreSQL
+## Self Hosting
 
-## Networking
-
-- DNS
-- DHCP
-- VPN
-- Reverse Proxies
-- Network Monitoring
-
-## Security
-
-- Secure Software Development
-- OWASP Top 10
-- System Hardening
-- Access Control
+Docker runtime
+Homepage dashboard
+Containerized service deployment
 
 ---
 
@@ -120,16 +107,28 @@ Each component is documented with:
 
 ---
 
-## Repository Ecosystem
+## Repository Structure
 
-Future repositories:
+project-olympus/
+├── devices/
+├── network/
+├── services/
+├── docker/
+├── scripts/
+├── changelog.md
+└── README.md
 
-- olympus-docs
-- olympus-infra
-- olympus-api
-- olympus-security
-- olympus-monitoring
-- olympus-automation
+Each directory contains documentation, deployment configurations, and automation scripts used throughout Project Olympus.
+
+---
+
+## Devices
+
+| Device | Purpose |
+|----------|----------|
+| Atlas | Infrastructure and service hosting |
+| Apollo | Administration and development |
+| Hyperion | Compute and AI workloads |
 
 ---
 
